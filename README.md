@@ -37,7 +37,7 @@ Crecí en la herrería familiar, donde pasé de aprendiz a encargarme de trabajo
 
 - Mi apodo es Piguis, y algunos creen que es mi nombre real
 - Mis videojuegos favoritos: Castlevania: Symphony of the Night, Terraria y Blasphemous
-- Mis libros favoritos: 1984, Rebelión en la granja y Fausto. Mi autor favorito: H.P. Lovecraft
+- Mis libros favoritos: 1984, Rebelión en la granja y Fausto.
 - Me gustan el anime, el manga, los perros y leer
 
 ## Contacto
