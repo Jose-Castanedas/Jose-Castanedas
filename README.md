@@ -1,30 +1,14 @@
-# Hola, soy Jose 👋
+# Hola, soy Jose [Apellidos]
 
-Egresado de Economía de la Escuela Superior de Economía del IPN.
-Analizo datos económicos y me gusta entender el porqué de lo que dicen los números, no quedarme con el primer resultado.
+Egresado de la Licenciatura en Economía de la Escuela Superior de Economía
+del IPN. Busco oportunidades como analista económico o analista de datos.
 
-Trabajo con método y estructura clara, pero sin rigidez: si hay una mejor forma de resolver algo, la busco.
+Trabajo con indicadores económicos de México, principalmente series de
+tiempo, con datos de INEGI.
 
-## En qué estoy trabajando
+**Herramientas:** Python (pandas, matplotlib) · R · Excel
 
-Proyectos de análisis económico y de datos: series de tiempo, finanzas públicas y economía regional.
-Los encuentras fijados aquí abajo 👇
+**Proyectos:** los repositorios fijados abajo incluyen la pregunta, los datos,
+el método y las limitaciones de cada análisis.
 
-## Herramientas
-
-Excel · R (RStudio) · Python · Jupyter Notebook
-
-## Antes de la economía
-
-Crecí en la herrería familiar, donde pasé de aprendiz a encargarme de trabajos completos: compra de material, armado e instalación.
-
-## Datos curiosos
-
-- Mi apodo es Piguis, y algunos creen que es mi nombre real
-- Mis videojuegos favoritos: Castlevania: Symphony of the Night, Terraria y Blasphemous
-- Mis libros favoritos: 1984, Rebelión en la granja y Fausto.
-- Me gustan el anime, el manga, los perros y leer
-
-## Contacto
-
-josegcastanedasoto@gmail.com ·
+**Contacto:** josegcastanedasoto@gmail.com ·
