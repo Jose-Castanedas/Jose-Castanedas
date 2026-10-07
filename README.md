@@ -1,4 +1,4 @@
-# Hola, soy Jose [Apellidos]
+# Hola, soy Jose Castañeda
 
 Egresado de la Licenciatura en Economía de la Escuela Superior de Economía
 del IPN. Busco oportunidades como analista económico o analista de datos.
