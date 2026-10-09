@@ -11,4 +11,4 @@ tiempo, con datos de INEGI.
 **Proyectos:** los repositorios fijados abajo incluyen la pregunta, los datos,
 el método y las limitaciones de cada análisis.
 
-**Contacto:** josegcastanedasoto@gmail.com ·
+**Contacto:** josegcastanedasoto@gmail.com · [LinkedIn](www.linkedin.com/in/jose-guadalupe-castañeda-soto)
