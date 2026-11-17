@@ -8,7 +8,6 @@ tiempo, con datos de INEGI.
 
 **Herramientas:** Python (pandas, matplotlib) · R · Excel
 
-**Proyectos:** los repositorios fijados abajo incluyen la pregunta, los datos,
-el método y las limitaciones de cada análisis.
+**Proyectos:** los repositorios fijados abajo incluyen las preguntas de investigación, los datos, el método y las limitaciones de cada análisis.
 
 **Contacto:** josegcastanedasoto@gmail.com · [LinkedIn](https://www.linkedin.com/in/jose-guadalupe-castaneda-soto)
