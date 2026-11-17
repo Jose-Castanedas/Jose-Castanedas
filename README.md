@@ -3,8 +3,7 @@
 Egresado de la Licenciatura en Economía de la Escuela Superior de Economía
 del IPN. Busco oportunidades como analista económico o analista de datos.
 
-Trabajo con indicadores económicos de México, principalmente series de
-tiempo, con datos de INEGI.
+Trabajo con indicadores económicos y de finanzas públicas de México, principalmente series de tiempo, con datos de INEGI y SHCP.
 
 **Herramientas:** Python (pandas, matplotlib) · R · Excel
 
